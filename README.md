@@ -1,2 +1,2 @@
 # JenkinsTest
-This is a test repo for Jenkins Setup 2
+This is a test repo for Jenkins Setup
